@@ -2,7 +2,7 @@
 .divider:before {
   content: "";
   flex: 1;
-  height: 1px;
+  height: 9rem;
   background: #eee;
 }
 .h-custom {
